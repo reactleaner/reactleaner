@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reactleaner
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning reactjs
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on vuejs
 - 📫 How to reach me 654654655@qq.com
 
 <!---
